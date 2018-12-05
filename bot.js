@@ -45,4 +45,4 @@ const Discord = require("discord.js");
                             }
                           }
 });
-kboosh.login("NTE5NTMzNzU0NDYxNDU0MzM2.Dug0uA.OnjqcZH0hp35Kias-Hqbn4zGVCw");
+kboosh.login("TOKEN");
